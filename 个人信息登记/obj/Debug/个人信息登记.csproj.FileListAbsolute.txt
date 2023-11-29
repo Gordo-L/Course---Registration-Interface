@@ -1,0 +1,10 @@
+C:\Users\13616\Desktop\c#\个人信息登记\个人信息登记\bin\Debug\个人信息登记.exe.config
+C:\Users\13616\Desktop\c#\个人信息登记\个人信息登记\bin\Debug\个人信息登记.exe
+C:\Users\13616\Desktop\c#\个人信息登记\个人信息登记\bin\Debug\个人信息登记.pdb
+C:\Users\13616\Desktop\c#\个人信息登记\个人信息登记\obj\Debug\个人信息登记.csprojAssemblyReference.cache
+C:\Users\13616\Desktop\c#\个人信息登记\个人信息登记\obj\Debug\个人信息登记.Form1.resources
+C:\Users\13616\Desktop\c#\个人信息登记\个人信息登记\obj\Debug\个人信息登记.Properties.Resources.resources
+C:\Users\13616\Desktop\c#\个人信息登记\个人信息登记\obj\Debug\个人信息登记.csproj.GenerateResource.cache
+C:\Users\13616\Desktop\c#\个人信息登记\个人信息登记\obj\Debug\个人信息登记.csproj.CoreCompileInputs.cache
+C:\Users\13616\Desktop\c#\个人信息登记\个人信息登记\obj\Debug\个人信息登记.exe
+C:\Users\13616\Desktop\c#\个人信息登记\个人信息登记\obj\Debug\个人信息登记.pdb
